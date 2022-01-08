@@ -24,7 +24,7 @@
 		]
 	},
 	"beacon": {
-		"message": "LoRa iGATE & Digi OH2Twi Degero",
+		"message": "LoRa iGATE & Digi OH2TWI Degero",
 		"position": {
 			"latitude": 60.036930,
 			"longitude": 24.180420
