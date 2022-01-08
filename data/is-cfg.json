@@ -1,5 +1,5 @@
 {
-	"callsign": "NOCALL-10",
+	"callsign": "OH2TWI-10",
 	"network": {
 		"DHCP": true,
 		"static": {
@@ -11,29 +11,29 @@
 		},
 		"hostname": {
 			"overwrite": false,
-			"name": "NOCALL-10"
+			"name": "OH2TWI-10"
 		}
 	},
 	"wifi": {
 		"active": true,
 		"AP": [
 			{
-				"SSID": "YOURSSID",
-				"password": "YOURPASSWORD"
+				"SSID": "BaseNL",
+				"password": "degerbacka"
 			}
 		]
 	},
 	"beacon": {
-		"message": "LoRa iGATE & Digi, Info: github.com/lora-aprs/LoRa_APRS_iGate",
+		"message": "LoRa iGATE & Digi OH2Twi Degero",
 		"position": {
-			"latitude": 0.000000,
-			"longitude": 0.000000
+			"latitude": 60.036930,
+			"longitude": 24.180420
 		},
 		"timeout": 15
 	},
 	"aprs_is": {
 		"active": true,
-		"passcode": "",
+		"passcode": "22967",
 		"server": "euro.aprs2.net",
 		"port": 14580
 	},
